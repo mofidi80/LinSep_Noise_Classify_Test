@@ -32,13 +32,13 @@
 </details>
 
 ## About The Project
-In this project test the following classification algorithms on their ability to classify linearly separable and non separable, and noisy data:
+In this project we test the following classification algorithms on their ability to classify linearly separable and non separable, and noisy data:
 Linear Regression(lasso, ridge), Bayes and Naive-Bayes Classification, Logistic-Classification, SVM, Perceptron
 
 ### Outcomes
-1. Find optimal hyperparameter for Lasso linear regression from among the given options.
-2. Find optimal hyperparameter for Ridge linear regression from among the given options.
-3. Compare the two models to find the best model for this dataset.
+1. Find out how these classification models work on linearly saperable data.
+2. Find out how these classification models work on linearly saperable data with outliers.
+3. Find out how these classification models work on linearly non-separable data with outliers.
 
 #### Use this link to easily view the notebook online:https://nbviewer.org/github/mofidi80/Housing_Linreg_hyperpara_opt/blob/main/boston%20housing%20linreg%20hyperparameter%20opt.ipynb
 
@@ -50,13 +50,15 @@ Linear Regression(lasso, ridge), Bayes and Naive-Bayes Classification, Logistic-
    + Numpy
    + Pandas
    + Scikit-Learn
+   + Matplotlib
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## Skills Required
 * Exploratory Data Analysis
-* Regression ML Models
+* Classification ML Models
+* Data Visualization
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -77,6 +79,10 @@ Linear Regression(lasso, ridge), Bayes and Naive-Bayes Classification, Logistic-
   ```console
   pip install scikit-learn
   ```
++ Matplotlib:
+  ```console
+  pip install matplotlib
+  ```
 3. Download the "housing.csv" dataset csv file.
 4. Download the "boston housing linreg hyperparameter opt.ipynb" notebook.
 5. Change the file directory of the dataset to what it is on your system.
@@ -84,7 +90,7 @@ Linear Regression(lasso, ridge), Bayes and Naive-Bayes Classification, Logistic-
 
 
 ## Possible usage
-Can be used to find optimal hyperparameters for ridge and lasso regression for a given dataset and compare the two models on this dataset to find the best model for it.
+Can be used to find out which models are more robust to outliers and non linearly separable data and tells us which model to use in these cases.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
