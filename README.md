@@ -40,8 +40,10 @@ Linear Regression(lasso, ridge), Bayes and Naive-Bayes Classification, Logistic-
 2. Find out how these classification models work on linearly saperable data with outliers.
 3. Find out how these classification models work on linearly non-separable data with outliers.
 
-#### Use this link to easily view the notebook online:https://nbviewer.org/github/mofidi80/Housing_Linreg_hyperpara_opt/blob/main/boston%20housing%20linreg%20hyperparameter%20opt.ipynb
-
+#### Use these links to easily view the notebooks online:
+https://nbviewer.org/github/mofidi80/LinSep_Noise_Classify_Test/blob/main/LinSep%20NoNoise.ipynb
+https://nbviewer.org/github/mofidi80/LinSep_Noise_Classify_Test/blob/main/LinSep%20Noise.ipynb
+https://nbviewer.org/github/mofidi80/LinSep_Noise_Classify_Test/blob/main/NoLinSep%20Noise.ipynb
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
@@ -83,9 +85,7 @@ Linear Regression(lasso, ridge), Bayes and Naive-Bayes Classification, Logistic-
   ```console
   pip install matplotlib
   ```
-3. Download the "housing.csv" dataset csv file.
-4. Download the "boston housing linreg hyperparameter opt.ipynb" notebook.
-5. Change the file directory of the dataset to what it is on your system.
+3. Run noteboooks.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
