@@ -40,6 +40,9 @@ Linear Regression(lasso, ridge), Bayes and Naive-Bayes Classification, Logistic-
 2. Find out how outliers affect these models.
 3. Figure out the best model to use in each case.
 
+#### Example: left image is linear seperable data with outliers, right image is linearly inseperable data.
+![Alt text](https://github.com/mofidi80/LinSep_Noise_Classify_Test/blob/dab9b65696234ae593e2a59bee45b8629fdcf5af/blob/SVM%20comparison.png)
+
 #### Use these links to easily view the notebooks online:
 https://nbviewer.org/github/mofidi80/LinSep_Noise_Classify_Test/blob/main/LinSep%20NoNoise.ipynb
 https://nbviewer.org/github/mofidi80/LinSep_Noise_Classify_Test/blob/main/LinSep%20Noise.ipynb
