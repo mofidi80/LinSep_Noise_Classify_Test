@@ -35,10 +35,10 @@
 In this project we test the following classification algorithms on their ability to classify linearly separable and non separable, and noisy data:
 Linear Regression(lasso, ridge), Bayes and Naive-Bayes Classification, Logistic-Classification, SVM, Perceptron
 
-### Outcomes
-1. Find out how these classification models work on linearly saperable data.
-2. Find out how these classification models work on linearly saperable data with outliers.
-3. Find out how these classification models work on linearly non-separable data with outliers.
+### Goals
+1. Find out how these classification models work on linearly saperable, and non-seperable data.
+2. Find out how outliers affect these models.
+3. Figure out the best model to use in each case.
 
 #### Use these links to easily view the notebooks online:
 https://nbviewer.org/github/mofidi80/LinSep_Noise_Classify_Test/blob/main/LinSep%20NoNoise.ipynb
